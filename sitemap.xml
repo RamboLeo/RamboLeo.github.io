@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ramboleo.github.io/2025/11/21/%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E8%B5%9B%E5%A4%87%E6%88%98%E5%AD%A3%EF%BC%9A5%E5%A4%A7%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE%EF%BC%8C90-%E7%9A%84%E5%AE%B6%E9%95%BF%E9%83%BD%E8%B8%A9%E8%BF%87%E5%9D%91%EF%BC%81/</loc>
+    
+    <lastmod>2025-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ramboleo.github.io/2025/11/21/%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A1%B5/</loc>
     
     <lastmod>2025-11-21</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://ramboleo.github.io/2025/11/21/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://ramboleo.github.io/2025/11/21/%E7%BC%96%E7%A8%8B%E5%9F%B9%E8%AE%AD%E5%B8%88%E8%B5%84%E8%AE%A4%E8%AF%81(PTA)%E6%A0%87%E5%87%86/</loc>
     
     <lastmod>2025-11-21</lastmod>
     
@@ -38,5 +47,19 @@
 
   
 
+  
+  <url>
+    <loc>http://ramboleo.github.io/categories/%E8%AE%A8%E8%AE%BA/</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://ramboleo.github.io/categories/%E6%97%A5%E8%AE%B0/</loc>
+    <lastmod>2025-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
